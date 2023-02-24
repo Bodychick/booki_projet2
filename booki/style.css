@@ -47,18 +47,16 @@ nav {
 .menu-child 
 {
     margin-top: 0;
+    padding: 25px 25px 25px 25px;
 }
 .menu-child a {
     text-decoration:none;
     text-align:center;
     color:black;
     cursor: pointer;
+    
 }
-.menu-link 
-{
-    padding: 25px 25px 25px 25px;
 
-}
 .menu-child:hover 
 {
     color:var(--main-blue-color);
